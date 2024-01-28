@@ -1,6 +1,6 @@
 <h1 align="center">EDUARDO HENRIQUE BARBOSA</h1>
 
-<p align="center">Sou estudante de Ciências da Computação, desenvolvo projetos de Front-End e um pouco de Back-End.</p>
+<p align="center">Sou formado em Ciências da Computação, atuo atualmento como desenvolvedor Front-End. Desenvolvo projetos de Front-End com foco em HTML, CSS e JavaScript. Mas também tenho conhecimento na linguagem Python.</p>
 
 <h2>Linguagens</h2>
 <div style="display: inline_block"><br>
@@ -20,7 +20,5 @@
 
 ##
 <div>
-<a href="https://www.linkedin.com/in/eduardo-henrique-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/edu_henriqueb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/Druadoo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eduardo-henrique-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
